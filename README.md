@@ -1,5 +1,4 @@
 # ping-optimisation (for games) 😉
-Download dnsjumper or from here the original site
-
+Download dnsjumper  from here or the original site below!
 
 # visit https://dnsjumper.net/
